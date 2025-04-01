@@ -1,12 +1,14 @@
 <h1 align="center">Hi, I'm Namita Naikwadi </h1>
 <h3 align="center">MS in Computer Science | Full-Stack Developer | Exploring Cloud Technologies & Artificial Intelligence🚀</h3>
-
+---
 <p align="center">
   <a href="https://namitanaikwadi04.github.io/Portfolio/" target="_blank">🌐 Portfolio</a> •
   <a href="mailto:namitanaikwadi04@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/namita-naikwadi/" target="_blank">🔗 LinkedIn</a> •
   <a href="https://github.com/namitanaikwadi04" target="_blank">💻 GitHub</a>
 </p>
+
+---
 
 Greetings! I'm Namita Naikwadi, a curious and passionate software developer with a strong foundation in full-stack development, cloud computing, vulnerability management, and GenAI. With hands-on experience in building scalable and secure applications, I'm currently pursuing my Master’s in Computer Science at Syracuse University and actively seeking **full-time roles** in software development.
 
@@ -30,6 +32,7 @@ I am always excited to connect with fellow tech enthusiasts and professionals to
 
 I’m currently looking for **full-time opportunities** in **software development**, **cloud engineering**, or **cybersecurity**. I’m eager to grow in a professional environment and contribute to building innovative solutions. If you know of any opportunities or have advice — I'd love to hear from you!
 
+---
 
 ### 👩‍💻 About Me
 
@@ -51,7 +54,7 @@ I’m currently looking for **full-time opportunities** in **software developmen
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=namitanaikwadi04&theme=radical" alt="namita streak"/>
 </p>-->
 
----
+
 
 
 ### 🏆 Certifications
