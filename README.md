@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Namita Naikwadi</h1>
-<h3 align="center">MS in Computer Science @Syracuse University | Full-Stack Developer | Exploring Cloud Technologies & Artificial Intelligence </h3>
+<h3 align="center">MS in Computer Science | Full-Stack Developer | Exploring Cloud Technologies & Artificial Intelligence </h3>
 
 <p align="center">
   <a href="https://namitanaikwadi04.github.io/Portfolio/" target="_blank">🌐 Portfolio</a> •
