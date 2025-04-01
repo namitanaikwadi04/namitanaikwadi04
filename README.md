@@ -84,7 +84,7 @@ If you have any questions or would like to chat, don’t hesitate to open an iss
 - 💻 **Portfolio:** [View Here](https://namitanaikwadi04.github.io/Portfolio/)  
 - 🗂️ **GitHub:** [namitanaikwadi04](https://github.com/namitanaikwadi04)
 
-Let’s build the future—securely, smartly, one line of code at a time! 💻☁️🔐
+Let’s build the future—securely, scalably, and smartly; One line of code at a time! 💻☁️🔐
 
 
 <!--
