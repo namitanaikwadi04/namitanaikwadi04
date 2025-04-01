@@ -18,6 +18,17 @@ I am always excited to connect with fellow tech enthusiasts and professionals to
 
 ---
 
+### 👩‍💻 About Me
+
+- 💼 Web Developer @ iConsult Collaborative (Project Management Institute | DiabeTech)
+- 🛡️ Former SDE at Infosys – Worked on enterprise-scale security-focused .NET applications
+- 🎓 Graduate Student @ Syracuse University (MS in Computer Science)
+- ⚙️ Building secure, scalable full-stack apps using .NET, React, and AWS
+- 🌐 Exploring cloud security, GenAI, and AWS architecture
+- 📝 Researcher | Published in IRJET – *Vitamin Deficiency Detection using AI*
+
+---
+
 ### 💡 What I Bring to the Table
 
 - **Programming Mastery:** Python, C, C++, C#, HTML, CSS, JavaScript, Java, SQL, C++, Kotlin, R, Haskell
@@ -31,17 +42,6 @@ I am always excited to connect with fellow tech enthusiasts and professionals to
 ### 🤔 I’m looking for help with...
 
 I’m currently looking for **full-time opportunities** in **software development**, **cloud engineering**, or **cybersecurity**. I’m eager to grow in a professional environment and contribute to building innovative solutions. If you know of any opportunities or have advice — I'd love to hear from you!
-
----
-
-### 👩‍💻 About Me
-
-- 💼 Web Developer @ iConsult Collaborative (Project Management Institute | DiabeTech)
-- 🛡️ Former SDE at Infosys – Worked on enterprise-scale security-focused .NET applications
-- 🎓 Graduate Student @ Syracuse University (MS in Computer Science)
-- ⚙️ Building secure, scalable full-stack apps using .NET, React, and AWS
-- 🌐 Exploring cloud security, GenAI, and AWS architecture
-- 📝 Researcher | Published in IRJET – *Vitamin Deficiency Detection using AI*
 
 ---
 
