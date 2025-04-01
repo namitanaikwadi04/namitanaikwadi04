@@ -1,6 +1,12 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">I'm Namita Naikwadi – a Web Developer, Cloud Enthusiast & Cybersecurity Learner 🚀</h3>
+<h3 align="center">I'm Namita Naikwadi - MS in Computer Science | Full-Stack Developer | Exploring Cloud Technologies & Artificial Intelligence 🚀</h3>
 
+<p align="center">
+  <a href="https://namitanaikwadi04.github.io/Portfolio/" target="_blank">🌐 Portfolio</a> •
+  <a href="mailto:namitanaikwadi04@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/namita-naikwadi/" target="_blank">🔗 LinkedIn</a> •
+  <a href="https://github.com/namitanaikwadi04" target="_blank">💻 GitHub</a>
+</p>
 ---
 
 Greetings! I'm Namita Naikwadi, a passionate software developer with a strong foundation in full-stack web development, cloud computing, and cybersecurity. With hands-on experience in building scalable and secure applications, I'm currently pursuing my Master’s in Computer Science at Syracuse University and actively seeking **full-time roles** in software development or security-focused engineering.
