@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Namita Naikwadi</h1>
-<h3 align="center">MS in Computer Science | Full-Stack Developer | Cybersecurity Enthusiast | Cloud & Data Engineering</h3>
+<h3 align="center">MS in Computer Science @Syracuse University | Full-Stack Developer | Exploring Cloud Technologies & Artificial Intelligence </h3>
 
 <p align="center">
   <a href="https://namitanaikwadi04.github.io/Portfolio/" target="_blank">🌐 Portfolio</a> •
@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 
 ### 👩‍💻 About Me
 
-- 💼 Web Developer @ iConsult Collaborative (PMI | DiabeTech)
+- 💼 Web Developer @ iConsult Collaborative (Project Management Institute | DiabeTech)
 - 🛡️ Former SDE at Infosys – Worked on enterprise-scale security-focused .NET applications
 - 🎓 Graduate Student @ Syracuse University (MS in Computer Science)
-- ⚙️ Building secure, scalable full-stack apps using React, Node.js, MongoDB, and AWS
-- 🌐 Exploring cloud security, web vulnerabilities, and GCP/AWS architecture
+- ⚙️ Building secure, scalable full-stack apps using .NET, React, and AWS
+- 🌐 Exploring cloud security, GenAI, and AWS architecture
 - 📝 Researcher | Published in IRJET – *Vitamin Deficiency Detection using AI*
 
 ---
@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 
 ### 🏆 Certifications
 
-- 🏅 Google Cloud Program (Coursera)
+- 🏅 Google Cloud Program
 - ☁️ AWS Certified Developer Associate
 - 💡 MTA: Python, Microsoft
 - 🧩 Infosys Certified .NET Web API & SQL Developer
