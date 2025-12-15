@@ -10,11 +10,14 @@
 
 ---
 
-Greetings! I'm Namita Naikwadi, a curious and passionate software developer with a strong foundation in full-stack development, cloud computing, vulnerability management, and GenAI. With hands-on experience in building scalable and secure applications, I'm currently pursuing my Master’s in Computer Science at Syracuse University and actively seeking **full-time roles** in software development.
+A curious and passionate software developer in the making. Over the last 4 years, I have built scalable backend systems, full-stack applications, and AI-driven features across FinTech and healthcare. My work spans Java and Spring Boot microservices, React.js interfaces, and cloud-native architectures on AWS.
 
-In my 3 years of professional journey, I've experienced multiple organizations, unique roles and varying cultures through a combination of full-time employment, internships and corporate projects - DiabeTech, Project Management Institute : iConsult Collaborative, Infosys, etc. 
+I have delivered systems that improve performance, reduce latency, and support high-traffic workloads by optimizing SQL queries, creating monitoring solutions that keep production environments stable. On the AI side, I have integrated LLM assistants, built RAG pipelines, and deployed real-time inference services for clinical workflows.
 
-I am always excited to connect with fellow tech enthusiasts and professionals to explore synergies and collaborate on transformative projects. Let’s make something great together!
+Beyond engineering, I am actively engaged in professional communities that support growth, leadership, and technical excellence. I have been part of Women in Science and Engineering (WiSE), the Society of Women Engineers (SWE), and Google Developer Student Clubs (GDSC), contributing to events, mentoring, and collaborative initiatives.
+
+I am always excited to connect with fellow engineers, innovators, and builders to explore ideas and collaborate on meaningful projects. Let’s create something impactful together!
+
 
 ---
 
@@ -41,7 +44,7 @@ I am always excited to connect with fellow tech enthusiasts and professionals to
 
 ### 🤔 I’m looking for help with...
 
-I’m currently looking for **full-time opportunities** in **software development**, **cloud engineering**, or **cybersecurity**. I’m eager to grow in a professional environment and contribute to building innovative solutions. If you know of any opportunities or have advice — I'd love to hear from you!
+I’m currently looking for **full-time opportunities** in **software development**, **AI engineering**. I’m eager to grow in a professional environment and contribute to building innovative solutions. If you know of any opportunities or have advice — I'd love to hear from you!
 
 ---
 
@@ -81,7 +84,6 @@ If you have any questions or would like to chat, don’t hesitate to open an iss
 
 - 📧 **Email:** namitanaikwadi04@gmail.com  
 - 🔗 **LinkedIn:** [Namita Naikwadi](https://www.linkedin.com/in/namita-naikwadi/)  
-- 💻 **Portfolio:** [View Here](https://namitanaikwadi04.github.io/Portfolio/)  
 - 🗂️ **GitHub:** [namitanaikwadi04](https://github.com/namitanaikwadi04)
 
 Let’s build the future—securely, scalably, and smartly; One line of code at a time! 💻☁️🔐
