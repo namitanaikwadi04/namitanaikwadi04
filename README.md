@@ -24,9 +24,9 @@ I am always excited to connect with fellow engineers, innovators, and builders t
 ### 👩‍💻 About Me
 
 - 💼 Web Developer @ iConsult Collaborative (Project Management Institute | DiabeTech)
-- 🛡️ Former SDE at Infosys – Worked on enterprise-scale security-focused .NET applications
+- 🛡️ Former SDE at Infosys – Worked on enterprise-scale security-focused Java applications
 - 🎓 Graduate Student @ Syracuse University (MS in Computer Science)
-- ⚙️ Building secure, scalable full-stack apps using .NET, React, and AWS
+- ⚙️ Building secure, scalable full-stack apps using Java, React, and AWS
 - 🌐 Exploring cloud security, GenAI, and AWS architecture
 - 📝 Researcher | Published in IRJET – *Vitamin Deficiency Detection using AI*
 
