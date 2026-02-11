@@ -10,7 +10,7 @@
 
 ---
 
-A curious and passionate software developer in the making. Over the last 4 years, I have built scalable backend systems, full-stack applications, and AI-driven features across FinTech and healthcare. My work spans Java and Spring Boot microservices, React.js interfaces, and cloud-native architectures on AWS.
+A curious and passionate software developer in the making. Over the last 4 years, I have built scalable backend systems, full-stack applications, and AI-driven features across FinTech and healthcare.
 
 I have delivered systems that improve performance, reduce latency, and support high-traffic workloads by optimizing SQL queries, creating monitoring solutions that keep production environments stable. On the AI side, I have integrated LLM assistants, built RAG pipelines, and deployed real-time inference services for clinical workflows.
 
@@ -65,7 +65,6 @@ I’m currently looking for **full-time opportunities** in **software developmen
 - 🏅 Google Cloud Program
 - ☁️ AWS Certified Developer Associate
 - 💡 MTA: Python, Microsoft
-- 🧩 Infosys Certified .NET Web API & SQL Developer
 - 💻 JP Morgan Chase Software Engineering Program
 
 ---
