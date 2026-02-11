@@ -2,7 +2,6 @@
 <h3 align="center">MS in Computer Science | Full-Stack Developer | Exploring Cloud Technologies & GenAI </h3>
 
 <p align="center">
-  <a href="https://namitanaikwadi04.github.io/Portfolio/" target="_blank">🌐 Portfolio</a> •
   <a href="mailto:namitanaikwadi04@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/namita-naikwadi/" target="_blank">🔗 LinkedIn</a> •
   <a href="https://github.com/namitanaikwadi04" target="_blank">💻 GitHub</a>
