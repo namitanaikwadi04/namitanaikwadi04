@@ -79,7 +79,6 @@ If you have any questions or would like to chat, don’t hesitate to open an iss
 
 ### 📫 Reach Out to Me
 
-- 📧 **Email:** namitanaikwadi04@gmail.com  
 - 🔗 **LinkedIn:** [Namita Naikwadi](https://www.linkedin.com/in/namita-naikwadi/)  
 - 🗂️ **GitHub:** [namitanaikwadi04](https://github.com/namitanaikwadi04)
 
