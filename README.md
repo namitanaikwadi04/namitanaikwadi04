@@ -1,14 +1,10 @@
 <h1 align="center">Hi, I'm Namita Naikwadi </h1>
 <h3 align="center">MS in Computer Science | Full-Stack Developer | Exploring Cloud Technologies & GenAI </h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/namita-naikwadi/" target="_blank">🔗 LinkedIn</a> •
-  <a href="https://github.com/namitanaikwadi04" target="_blank">💻 GitHub</a>
-</p>
 
 ---
 
-A curious and passionate software developer in the making. Over the last 4 years, I have built scalable backend systems, full-stack applications, and AI-driven features across FinTech and healthcare.
+A curious and passionate software developer in the making. Over the last 5 years, I have built scalable backend systems, full-stack applications, and AI-driven features across FinTech and healthcare.
 
 I have delivered systems that improve performance, reduce latency, and support high-traffic workloads by optimizing SQL queries, creating monitoring solutions that keep production environments stable. On the AI side, I have integrated LLM assistants, built RAG pipelines, and deployed real-time inference services for clinical workflows.
 
@@ -32,11 +28,13 @@ I am always excited to connect with fellow engineers, innovators, and builders t
 
 ### 💡 What I Bring to the Table
 
-- **Programming Mastery:** Python, C, C++, C#, HTML, CSS, JavaScript, Java, SQL, C++, Kotlin, R, Haskell
-- **Framework Expertise:** React, Node.js, ASP.NET Core, Express.js, Flutter  
-- **Database Whisperer:** MongoDB, SQL Server, MySQL, PostgreSQL, Firebase Realtime DB, SoapUI, Postman
-- **Cloud & DevOps:** AWS (EC2, S3, RDS), Google Cloud, Jenkins, GitHub  
-- **Other:** OWASP Top 10, Vulnerability Management, SSL/TLS, JWT, Checkmarx, SumoLogic, Splunk, WireShark, Agile Methodologies
+
+- **Languages & Libraries:** Java, C++, Python, JavaScript, TypeScript, HTML, CSS, SQL, Spring Boot, Spring Security, Hibernate, React.js, Node.js
+- **AI/ML:** TensorFlow, PyTorch, NumPy, OpenCV, LangChain, LLM, Hugging Face, Scikit-learn, RAG, Pandas, FAISS, LangGraph, Embeddings, Weaviate, LlamaIndex, Transformers, Pinecone, Ray, FastAPI
+- **Database:** MySQL, MongoDB, PostgreSQL, Oracle PL/SQL, DynamoDB
+- **Tools:** Git, GitHub, Splunk, Checkmarx, Postman, SoapUI, Jira, Cursor, ChatGPT, GitHub Copilot, Maven, Gradle
+- **Cloud & Security:** Google Cloud Platform, AWS (EC2, S3, Lambda), OAuth 2.0, JWT, Vulnerability Management
+- **System Design & Architecture:** Microservices, Distributed Systems, Scalability, Load Balancing, RESTful APIs, GraphQL, gRPC, Message Queues (Kafka, RabbitMQ), Caching (Redis, Memcached), High Availability, Fault Tolerance
 
 ---
 
@@ -77,28 +75,10 @@ I’m always up for discussions on:
 If you have any questions or would like to chat, don’t hesitate to open an issue!
 ---
 
-### 📫 Reach Out to Me
-
-- 🔗 **LinkedIn:** [Namita Naikwadi](https://www.linkedin.com/in/namita-naikwadi/)  
-- 🗂️ **GitHub:** [namitanaikwadi04](https://github.com/namitanaikwadi04)
 
 Let’s build the future—securely, scalably, and smartly; One line of code at a time! 💻☁️🔐
 
 
-<!--
-**namitanaikwadi04/namitanaikwadi04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <p align="center">
   Built with ❤️ by <a href="https://github.com/namitanaikwadi04">Namita</a>
