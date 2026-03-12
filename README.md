@@ -79,7 +79,3 @@ If you have any questions or would like to chat, don’t hesitate to open an iss
 Let’s build the future—securely, scalably, and smartly; One line of code at a time! 💻☁️🔐
 
 
-
-<p align="center">
-  Built with ❤️ by <a href="https://github.com/namitanaikwadi04">Namita</a>
-</p>
